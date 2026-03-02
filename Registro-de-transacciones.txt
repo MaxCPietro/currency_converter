@@ -1,0 +1,70 @@
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 1000.0 MXN
+Tipo de Cambio:  0.05008 USD/MXN
+Resultado de la operacion: 50,08 USD
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 10000.0 MXN
+Tipo de Cambio:  0.05008 USD/MXN
+Resultado de la operacion: 500,80 USD
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 1000.0 MXN
+Tipo de Cambio:  0.05008 USD/MXN
+Resultado de la operacion: 50,08 USD
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  0.4803 MXN/UYU
+Resultado de la operacion: 480,30 MXN
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 5000.0 ARS
+Tipo de Cambio:  0.0202 MXN/ARS
+Resultado de la operacion: 101,00 MXN
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 1000.0 CLP
+Tipo de Cambio:  0.02099 MXN/CLP
+Resultado de la operacion: 20,99 MXN
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 1000.0 MXN
+Tipo de Cambio:  47.6323 CLP/MXN
+Resultado de la operacion: 47.632,30 CLP
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 1.0 MXN
+Tipo de Cambio:  47.6323 CLP/MXN
+Resultado de la operacion: 47,63 CLP
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 1000.0 USD
+Tipo de Cambio:  19.9785 MXN/USD
+Resultado de la operacion: 19.978,50 MXN
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  0.4803 MXN/UYU
+Resultado de la operacion: 480,30 MXN
+********** 
+
+Fecha de la operacion: 28/10/2024
+Cantidad preliminar : 10.0 MXN
+Tipo de Cambio:  0.2862 BRL/MXN
+Resultado de la operacion: 2,86 BRL
+********** 
+
+Fecha de la operacion: 05/11/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  3.654 JPY/UYU
+Resultado de la operacion: 3.654,00 JPY
+********** 

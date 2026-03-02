@@ -1,0 +1,37 @@
+Fecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 USD
+Tipo de Cambio:  19.9259 MXN/USD
+Resultado de la operacion: 1.019,93 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 50.0 USD
+Tipo de Cambio:  19.9259 MXN/USD
+Resultado de la operacion: 69,93 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 ARS
+Tipo de Cambio:  0.02016 MXN/ARS
+Resultado de la operacion: 1.000,02 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 ARS
+Tipo de Cambio:  0.02016 MXN/ARS
+Resultado de la operacion: 1.000,02 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 MXN
+Tipo de Cambio:  0.05022 USD/MXN
+Resultado de la operacion: 1.000,05 USDFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  0.4775 MXN/UYU
+Resultado de la operacion: 1.000,48 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 MXN
+Tipo de Cambio:  2.0941 UYU/MXN
+Resultado de la operacion: 1.002,09 UYUFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  0.4775 MXN/UYU
+Resultado de la operacion: 1.000,48 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 JPY
+Tipo de Cambio:  0.1309 MXN/JPY
+Resultado de la operacion: 1.000,13 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 MXN
+Tipo de Cambio:  7.6418 JPY/MXN
+Resultado de la operacion: 1.007,64 JPYFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 JPY
+Tipo de Cambio:  0.1309 MXN/JPY
+Resultado de la operacion: 130,90 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 MXN
+Tipo de Cambio:  7.6418 JPY/MXN
+Resultado de la operacion: 7.641,80 JPY

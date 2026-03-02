@@ -1,0 +1,31 @@
+Fecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  0.4775 MXN/UYU
+Resultado de la operacion: 477,50 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 550.0 USD
+Tipo de Cambio:  0.9253 EUR/USD
+Resultado de la operacion: 508,92 EURFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  0.4775 MXN/UYU
+Resultado de la operacion: 477,50 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 550.0 USD
+Tipo de Cambio:  0.9253 EUR/USD
+Resultado de la operacion: 508,92 EURFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  0.4775 MXN/UYU
+Resultado de la operacion: 477,50 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 10.0 GBP
+Tipo de Cambio:  25.8476 MXN/GBP
+Resultado de la operacion: 258,48 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 MXN
+Tipo de Cambio:  2.0941 UYU/MXN
+Resultado de la operacion: 2.094,10 UYUFecha de la operacion: 26/10/2024
+Cantidad preliminar : 4512.0 MXN
+Tipo de Cambio:  0.03869 GBP/MXN
+Resultado de la operacion: 174,57 GBPFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 UYU
+Tipo de Cambio:  0.4775 MXN/UYU
+Resultado de la operacion: 477,50 MXNFecha de la operacion: 26/10/2024
+Cantidad preliminar : 1000.0 USD
+Tipo de Cambio:  19.9259 MXN/USD
+Resultado de la operacion: 19.925,90 MXN

@@ -1,0 +1,42 @@
+Fecha de la conversión: 26/10/2024
+Divisa de origen: UYU\nCantidad:\s""" + cantidad + " " +divisaInicial + """
+
+Divisa de destino: MXN
+Tipo de cambio: 0.4775 MXN/UYU
+Total: 477,50 MXN
+
+Fecha de la conversión: 26/10/2024
+Divisa de origen: MXN\nCantidad:\s""" + cantidad + " " +divisaInicial + """
+
+Divisa de destino: UYU
+Tipo de cambio: 2.0941 UYU/MXN
+Total: 2.094,10 UYU
+
+Fecha de la conversión: 26/10/2024
+Divisa de origen: EUR\nCantidad:\s""" + cantidad + " " +divisaInicial + """
+
+Divisa de destino: USD
+Tipo de cambio: 1.0807 USD/EUR
+Total: 54,03 USD
+
+Fecha de la conversión: 26/10/2024
+Divisa de origen: USD\nCantidad:\s""" + cantidad + " " +divisaInicial + """
+
+Divisa de destino: EUR
+Tipo de cambio: 0.9253 EUR/USD
+Total: 46,27 EUR
+
+Fecha de la conversión: 26/10/2024
+Divisa de origen: UYU\nCantidad:\s""" + cantidad + " " +divisaInicial + """
+
+Divisa de destino: MXN
+Tipo de cambio: 0.4775 MXN/UYU
+Total: 477,50 MXN
+
+Fecha de la conversión: 26/10/2024
+Divisa de origen: MXN\nCantidad:\s""" + cantidad + " " +divisaInicial + """
+
+Divisa de destino: UYU
+Tipo de cambio: 2.0941 UYU/MXN
+Total: 2.094,10 UYU
+
